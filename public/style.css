@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #181718;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    
+    height: 120px;
+    background: url(img/logo.png) no-repeat;
+    background-size: 100px 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+
+header nav ul{
+    text-align: center;
+}
+
+header nav ul li{
+    display: inline;
+}
+
+header nav ul li a{
+    float: inline-end;
+    text-decoration: none;
+    color: #0CF25D;
+    padding: 23px;
+    justify-content: flex-end;
+    height: 30px;
+    border-radius: 7px;
+}
+
+header nav ul li a:hover{
+    color: white;
+}
+
+
+
+main{
+    width: 80%;
+}
+
+.imagem-destaque{
+    display: block;
+    margin-left: 30%;
+    border: 3px solid white;
+    border-radius: 15px;
+}
+
+.artigos{
+    display: block;
+    margin-left: 35%;
+}
+
+.artigos article{
+    width: 20%;
+    height: 25%;
+    font-size: 14px;
+    display: inline;
+    float: left;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin: 50px;
+}
+
+.artigos article:hover{
+    background-color: #5bce83;
+}
+
+.artigos article p:hover{
+    color: black;
+}
+
+.artigos article img{
+    width: 120px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.artigos article p{
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+
+footer{
+    clear: both;
+}
+
