@@ -10,17 +10,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Vitor de Paula Santos
+- Matricula: 900776 
+- Proposta de projeto escolhida: 3. Organizações e Equipes
+- Breve descrição sobre seu projeto: Meu projeto consiste em desenvolver um site para uma startup focada em tecnologia. 
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![Print do layout](Layout.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print da homepage](Homepage.png)
